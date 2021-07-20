@@ -1,0 +1,17 @@
+{
+  "name": "taiwanshashi",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "config": "^3.3.6",
+    "data-store": "^4.0.3",
+    "node-schedule": "^2.0.0",
+    "node-telegram-bot-api": "^0.53.0"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

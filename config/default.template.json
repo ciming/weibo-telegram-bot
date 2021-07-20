@@ -1,0 +1,9 @@
+{
+  "telegram": {
+    "TOKEN": "TOKEN",
+    "group": "@小组id"
+  },
+  "weibo": {
+    "url": "https://m.weibo.cn/api/container/getIndex?&containerid=1076035721376081"
+  }
+}
